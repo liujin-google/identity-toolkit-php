@@ -29,7 +29,7 @@
   "require": {
     "silex/silex": "1.0.*@dev",
     "twig/twig": ">=1.8,<2.0-dev",
-    "gitkit/apiclient": "1.0.*",
+    "google/identity-toolkit-php-client": "1.0.1",
     "google/apiclient": "1.0.*"
   }
 }
